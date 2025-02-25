@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inshamul Haque</h1>
 <h3 align="center">A passionate FullStack Developer from India.</h3>
 
-- 🔭 I’m currently working on [Real-time Chat Application](https://github.com/Inshamhaque/Minor-part-1)
+- 🔭 I’m currently working on [AI powered CS Interview Prep SAAS](https://github.com/Inshamhaque/Codecrux)
 
 - 🌱 I’m currently learning **Real time communications, Blockchains, Machine Learning**
 
