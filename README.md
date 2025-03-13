@@ -28,9 +28,9 @@ I'm a **Full Stack Developer** specializing in the **MERN stack** and **Next.js*
 - **Blockchain & Web3** development
 
 ## ✨ GitHub Stats
-![Inshamul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inshamul&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inshamhaque&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inshamul&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inshamhaque&layout=compact&theme=radical)
 
 ---
 🚀 Always building, always learning. Let's connect and innovate together!
