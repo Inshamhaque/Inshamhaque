@@ -17,11 +17,10 @@ I'm a **Full Stack Developer** specializing in the **MERN stack** and **Next.js*
 - **Faculty Chat Messenger:** Internal chat system for university faculty
 
 ## 📫 Connect With Me
-- **Portfolio:** [inshamul.com](https://inshamul.com) *(Coming Soon)*
+- **Portfolio:** [inshamul.com](https://inshamulhaque.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/inshamulhaque](https://linkedin.com/in/inshamulhaque)
 - **Twitter:** [@inshamulhaque](https://twitter.com/inshamulhaque)
-- **Email:** inshamul.dev@gmail.com
-
+- **Email:** haqueinsham@gmail.com
 ## 🌱 Currently Learning
 - Advanced **DSA** & System Design
 - **LangChain** for AI-powered applications
