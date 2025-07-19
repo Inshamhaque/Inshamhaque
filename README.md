@@ -73,7 +73,7 @@ I'm a passionate **Full Stack Developer** who thrives on building scalable, prod
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://inshamulhaque.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat)](https://linkedin.com/in/inshamulhaque)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat)](https://linkedin.com/in/inshamul-haque)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat)](https://twitter.com/inshamulhaque)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat)](mailto:haqueinsham@gmail.com)
 
