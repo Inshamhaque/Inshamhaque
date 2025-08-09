@@ -14,7 +14,6 @@
 
 I'm a passionate **Full Stack Developer** who thrives on building scalable, production-grade web applications. My current stack revolves around **MERN**, **Next.js**, and **PostgreSQL**, with a strong curiosity for **Machine Learning**, **Blockchain**, and **System Design**.
 
-💡 Whether it’s architecting backend services, designing smooth UI/UX, or exploring bleeding-edge tech—I’m always building, learning, and shipping.
 
 ---
 
