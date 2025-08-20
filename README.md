@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** who thrives on building scalable, production-grade web applications. My current stack revolves around **MERN**, **Next.js**, and **PostgreSQL**, with a strong curiosity for **Machine Learning**, **Blockchain**, and **System Design**.
+I'm a passionate **Full Stack Developer** who thrives on building scalable, production-grade web applications.
 
 
 ---
@@ -45,21 +45,6 @@ I'm a passionate **Full Stack Developer** who thrives on building scalable, prod
 
 ---
 
-## 🚧 Featured Projects
-
-- 🧠 [**CodeCrux**](https://github.com/Inshamul/CodeCrux)  
-  *AI-powered CS Interview Prep SaaS* – Practice with tailored coding challenges & system design.
-
-- 🌐 **Web3 SaaS Platform**  
-  *Click-to-Earn DApp* – A decentralized app to onboard users into Web3 through micro-interactions.
-
-- 🚖 **Uber/Bolt Clone**  
-  *Full-stack ride-hailing app* with real-time location updates, driver matching, and maps.
-
-- 💬 **Faculty Chat Messenger**  
-  *Internal chat system* for seamless communication across university departments.
-
----
 
 ## 🔍 Currently Exploring
 
