@@ -15,6 +15,8 @@
 I'm a passionate **Full Stack Developer** who thrives on building scalable, production-grade, AI powered web applications.
 
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Inshamhaque)](https://github.com/Inshamhaque)   
 ---
 
 ## 🛠️ Tech Stack
